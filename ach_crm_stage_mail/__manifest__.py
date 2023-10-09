@@ -6,7 +6,7 @@
     'description': """
         send email templates automatically when changing stage
     """,
-    'author': "Gt Alchemy Development",
+    'author': "ACH Alchemical Code",
     'license': 'LGPL-3',
     'support': 'developmentalchemygx@gmail.com',
     'category': 'Sales',
